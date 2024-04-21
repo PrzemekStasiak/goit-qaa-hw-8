@@ -1,0 +1,13 @@
+{
+    "name": "Josh",                         //string
+    "weight": 175,                          //number
+    "age": 30,                              //number
+    "eyecolor": "brown",                    //string
+    "isHappy": true,                        //boolean
+    "cars": ["chevy", "Honda"],             // cars - array w tablicy 2razy string
+    "favorieBook": {                        //object
+        "title": "The last kingdom",        //string
+        "author": "Bernard Cornwell",       //String
+        "rating": 8.32                      // number
+    }
+}
